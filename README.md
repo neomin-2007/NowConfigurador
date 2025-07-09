@@ -2,8 +2,6 @@
 
 Uma ferramenta GUI para gerar arquivos de configuração (YAML) para plugins de Minecraft automaticamente, baseado em suas especificações.
 
-![Demo](https://via.placeholder.com/650x600?text=NowConfigurador+Demo) *(Substitua por uma imagem real do projeto)*
-
 ## ✨ Funcionalidades
 
 - Gera arquivos `config.yml` prontos para uso em plugins de Minecraft
@@ -19,3 +17,9 @@ Uma ferramenta GUI para gerar arquivos de configuração (YAML) para plugins de 
 - Pacotes necessários:
   ```bash
   pip install requests tkinter
+
+## 🪄 Demonstração
+
+| ![Tela 1](https://imgur.com/gYDNe74.png) | ![Tela 2](https://imgur.com/QJryn0g.png) |
+|------------------------------------------|------------------------------------------|
+| ![Tela 3](https://imgur.com/SFDXM9U.png) | ![Tela 4](https://imgur.com/pSQKkND.png) |
